@@ -1,0 +1,15 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store
+
+# Downloaded automatically on first run (~8 MB)
+models/
+
+# Built-in sounds are generated on first run.
+# Your own sounds in sounds/custom/ ARE tracked.
+sounds/*.wav
+sounds/.aura_loop_v2

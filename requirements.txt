@@ -1,0 +1,6 @@
+mediapipe>=0.10.14
+opencv-python>=4.8
+numpy
+pyvirtualcam>=0.14
+certifi
+sounddevice
